@@ -1,1 +1,1 @@
-# ajs_9-2_ArrayBuffer
+# ajs_9-2_ArrayBuffer [![Build status](https://ci.appveyor.com/api/projects/status/jn4xe88brjir7jcy?svg=true)](https://ci.appveyor.com/project/SergeStepanov/ajs-9-2-arraybuffer)
